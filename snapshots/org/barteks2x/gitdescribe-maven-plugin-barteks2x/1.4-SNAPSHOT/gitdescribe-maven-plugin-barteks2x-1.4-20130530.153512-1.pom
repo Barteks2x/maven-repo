@@ -3,7 +3,7 @@
 
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.lukegb.mojo</groupId>
+  <groupId>org.barteks2x</groupId>
   <artifactId>gitdescribe-maven-plugin-barteks2x</artifactId>
   <packaging>maven-plugin</packaging>
   <name>Git Describe Maven Plugin</name>
